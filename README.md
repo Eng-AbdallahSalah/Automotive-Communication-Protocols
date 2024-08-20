@@ -1,6 +1,6 @@
 # Automotive-Communication-Protocols
 <div>
-  <img src="https://github.com/user-attachments/assets/ef4749db-3e57-4a88-8e0a-b731f9f3785c" width="350%" height="300px">
+  <img src="https://github.com/user-attachments/assets/ef4749db-3e57-4a88-8e0a-b731f9f3785c" width="400%" height="300px">
 </div>
   
 ## Welcome Message:
